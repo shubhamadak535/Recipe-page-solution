@@ -26,8 +26,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [repository](https://github.com/shubhamadak535/Recipe-page-solution)
+- Live Site URL: [live site](https://shubhamadak535.github.io/Recipe-page-solution/)
 
 ## My process
 
@@ -52,6 +52,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - [HTML Table basics](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/HTML_table_basics)
 - [Styling tables](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Tables) 
 - [Psuedo-classes and Pseudo-elements](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Pseudo_classes_and_elements)
+- [Position](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/position)
 
 ### AI Collaboration
 
