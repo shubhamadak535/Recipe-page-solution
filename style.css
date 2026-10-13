@@ -224,14 +224,14 @@ hr {
   border-bottom: none;
 }
 
-th,
-td {
+.nutrition-table th,
+.nutrition-table td {
   text-align: left;
   padding: 1rem;
   width: 50%;
 }
 
-th {
+.nutrition-table th {
   padding-left: 3rem;
 }
 
